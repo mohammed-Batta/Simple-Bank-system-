@@ -1,0 +1,35 @@
+﻿  CppPro.cpp
+D:\C++ Projects\BANK PROJECT\clsString.h(179,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsString.h(198,41): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsString.h(201,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsString.h(219,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsString.h(241,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsUtil.h(118,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsTotalBalancesScreen.h(53,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsTransactionsScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsCurrencyMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\clsCurrencyMainScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CppPro.cpp')
+  
+D:\C++ Projects\BANK PROJECT\UpdateCurrencyRateScreen.h(53,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CppPro.cpp')
+  
+  CppPro.vcxproj -> D:\C++ Projects\BANK PROJECT\x64\Debug\CppPro.exe
